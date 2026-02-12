@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlmodel
+langchain
+langchain-openai
+chromadb
+pydantic-settings
+python-multipart
+python-dotenv
+tiktoken
+openai==1.3.0
+requests==2.31.0
+pytest
+httpx

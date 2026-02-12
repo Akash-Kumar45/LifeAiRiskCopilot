@@ -1,0 +1,26 @@
+OSFI GUIDELINE E-23: MODEL RISK MANAGEMENT
+
+PRINCIPLE 1: ORGANIZATIONAL ENABLEMENT
+Senior management is responsible for defining roles, accountabilities, and expectations for effective MRM. It requires a multi-disciplinary team with AI/ML expertise [1.1].
+
+PRINCIPLE 2: MRM FRAMEWORK
+Institutions must establish a framework that defines processes to identify, assess, manage, monitor, and report on model risk. This includes maintaining a comprehensive model inventory [1.2].
+
+PRINCIPLE 3: MODEL IDENTIFICATION
+Institutions must identify all models in use. A model is defined as an application of theoretical, empirical, or statistical techniques (including AI/ML) that processes input data to generate results [1.3].
+
+PRINCIPLE 4: MODEL RISK RATING
+A risk rating approach must consider quantitative factors (size of portfolio, financial impact) and qualitative factors (model complexity, autonomy, data reliability, customer impact) [1.4].
+
+PRINCIPLE 5: MODEL DEVELOPMENT STANDARDS (E-23 4.3)
+Standards must exist for: 
+- Model rationale and purpose [1.5].
+- Documentation of methodology and assumptions [1.6].
+- Performance and explainability requirements [1.7].
+- Data quality, lineage, and bias assessments [1.8].
+
+PRINCIPLE 6: MODEL REVIEW (E-23 4.4)
+Independent assessment of conceptual soundness and performance. Must include data quality review and evaluation of explainability for AI/ML models [1.9].
+
+PRINCIPLE 7: MODEL DEPLOYMENT & MONITORING (E-23 4.6 - 4.7)
+Deployment requires tests showing the model operates as expected in production. Monitoring includes thresholds for performance breaches and handling AI-specific drift or autonomous decision-making [1.10].
